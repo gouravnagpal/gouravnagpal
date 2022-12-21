@@ -11,8 +11,16 @@
 
 - How to reach me
     - **snagpal676@gmail.com**
-    - **<a href="tel:9255011163" target="_blank">+91 9255011163</a>**
+    - **+91 9255011163**
+    
 
+<h3 align="left">Projects</h3>
+<p align="left">
+    <a href="https://rise.piet.co.in">R.I.S.E PORTAL</a>
+</p>
+<p align="left">
+    <a href="https://feedback.piet.co.in">Feedback PORTAL</a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
