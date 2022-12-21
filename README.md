@@ -17,7 +17,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Gourav%20Nagpal-blue?style=for-the-badge&logo=Linkedin&logoColor=whitelink=https://www.linkedin.com/in/gourav-nagpal21)](https://www.linkedin.com/in/gourav-nagpal21)
 [![Gmail Badge](https://img.shields.io/badge/-snagpal676@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:snagpal676@gmail.com)](mailto:snagpal676@gmail.com)
-
+[![YouTube Badge](https://img.shields.io/badge/-Instructor%20Hut-c14438?style=for-the-badge&logo=Youtube&logoColor=white&link=https://www.youtube.com/c/instructorhut)](https://www.youtube.com/c/instructorhut)
 
 <h3 align="left">Projects</h3>
     <p align="left">
