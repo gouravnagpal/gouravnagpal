@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Gourav%20Nagpal-blue?style=for-the-badge&logo=Linkedin&logoColor=whitelink=https://www.linkedin.com/in/gourav-nagpal21)](https://www.linkedin.com/in/gourav-nagpal21)
-[![Gmail Badge](https://img.shields.io/badge/-snagpal676@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=whitelink=mailto:snagpal676@gmail.com)](mailto:snagpal676@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-snagpal676@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:snagpal676@gmail.com)](mailto:snagpal676@gmail.com)
 
 
 <h3 align="left">Projects</h3>
