@@ -11,7 +11,7 @@
 
 - I’m currently working on **JavaScript & PHP**
 
-- Ask me about **Cyber Security, Secure Coding Techniques, PHP, MySQL** 
+- Ask me about **Secure Coding Techniques** 
 
 <h3 align="left">Connect with me:</h3>
 
