@@ -21,18 +21,20 @@
 [![Leet Code Badge](https://img.shields.io/badge/-Leet%20Code-yellow?style=for-the-badge)](https://www.leetcode.com/gouravnagpal)
 
 <h3 align="left">Projects</h3>
-    <p align="left">
-        <a href="https://rise.piet.co.in">R.I.S.E PORTAL</a>
-    </p>
-    <p align="left">
-        <a href="https://feedback.piet.co.in">Feedback PORTAL</a>
-    </p>
-    <p align="left">
-        <a href="https://achievers.piet.co.in">Achievers PORTAL</a>
-    </p>
-    <p align="left">
-        <a href="https://oqcl.piet.co.in">OQCL PORTAL (Open Quiz Championship League)</a>
-    </p>
+    <ul>
+        <ol>
+            <a href="https://rise.piet.co.in">R.I.S.E PORTAL</a>
+        </ol>
+        <ol>
+            <a href="https://feedback.piet.co.in">Feedback PORTAL</a>
+        </ol>
+        <ol>
+            <a href="https://achievers.piet.co.in">Achievers PORTAL</a>
+        </ol>
+        <ol>
+            <a href="https://oqcl.piet.co.in">OQCL PORTAL (Open Quiz Championship League)</a>
+        </ol>
+    </ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
