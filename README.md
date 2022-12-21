@@ -8,8 +8,8 @@
 - Ask me about **Cyber Security, Secure Coding Techniques, PHP, MySQL** 
 
 - How to reach me
--- **snagpal676@gmail.com**
--- **9255011163**
+ - **snagpal676@gmail.com**
+ - **9255011163**
 
 
 <h3 align="left">Connect with me:</h3>
