@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 💬 Ask me about **Cyber Security, Secure Coding Techniques, PHP**
+- 💬 Ask me about **Cyber Security, Secure Coding Techniques, PHP** 
 
 - 📫 How to reach me **snagpal676@gmail.com**
 
