@@ -15,12 +15,24 @@
     
 
 <h3 align="left">Projects</h3>
-<p align="left">
-    <a href="https://rise.piet.co.in">R.I.S.E PORTAL</a>
-</p>
-<p align="left">
-    <a href="https://feedback.piet.co.in">Feedback PORTAL</a>
-</p>
+    <p align="left">
+        <a href="https://rise.piet.co.in">R.I.S.E PORTAL</a>
+    </p>
+    <p align="left">
+        <a href="https://feedback.piet.co.in">Feedback PORTAL</a>
+    </p>
+    <p align="left">
+        <a href="https://oqcl.piet.co.in">Open Quiz Championship League PORTAL</a>
+    </p>
+    <p align="left">
+        <a href="https://achievers.piet.co.in">Achievers PORTAL</a>
+    </p>
+    <p align="left">
+        <a href="#">Network Security Tool</a>
+    </p>
+    <p align="left">
+        <a href="#">Artificial Intelligence Chatbot</a>
+    </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
