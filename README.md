@@ -15,9 +15,10 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Gourav%20Nagpal-blue?style=for-the-badge&logo=Linkedin&logoColor=whitelink=https://www.linkedin.com/in/gourav-nagpal21)](https://www.linkedin.com/in/gourav-nagpal21)
 [![Gmail Badge](https://img.shields.io/badge/-snagpal676@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:snagpal676@gmail.com)](mailto:snagpal676@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Gourav%20Nagpal-blue?style=for-the-badge&logo=Linkedin&logoColor=whitelink=https://www.linkedin.com/in/gourav-nagpal21)](https://www.linkedin.com/in/gourav-nagpal21)
 [![YouTube Badge](https://img.shields.io/badge/-Instructor%20Hut-c14438?style=for-the-badge&logo=Youtube&logoColor=white&link=https://www.youtube.com/c/instructorhut)](https://www.youtube.com/c/instructorhut)
+[![Leet Code Badge](https://img.shields.io/badge/-Leet%20Code-yellow?style=for-the-badge&logo=LeetCode&logoColor=whitelink=https://www.leetcode.com/gouravnagpal)](https://www.leetcode.com/gouravnagpal)
 
 <h3 align="left">Projects</h3>
     <p align="left">
@@ -29,9 +30,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gourav-nagpal21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gourav-nagpal21" height="30" width="40" /></a>
-<a href="https://instagram.com/heyyy.grv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="heyyy.grv" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/instructorhut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="instructorhut" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/gouravnagpal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gouravnagpal" height="30" width="40" /></a>
 </p>
 
