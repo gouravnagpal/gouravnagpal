@@ -89,6 +89,7 @@
     </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gourav-nagpal21&show_icons=true&locale=en&layout=compact" alt="gourav-nagpal21" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gourav-nagpal21&" alt="gourav-nagpal21" /></p>
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gourav-nagpal21&show_icons=true&locale=en&layout=compact" alt="gourav-nagpal21" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gourav-nagpal21&" alt="gourav-nagpal21" />
+</p>
