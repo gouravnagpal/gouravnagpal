@@ -26,9 +26,9 @@
 <p align="left"><a href="https://achievers.piet.co.in">Achievers PORTAL</a></p>
 <p align="left"><a href="https://oqcl.piet.co.in">OQCL PORTAL (Open Quiz Championship League)<a></p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools :</h3>
 <p align="left">
-    <h6 align="left">Front-End Technologies:</h3>
+    <h6 align="left">Front-End Technologies :</h3>
     <a href="https://www.w3.org/html/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
     </a>
@@ -52,7 +52,7 @@
     </a>
 </p>
 <p align="left">
-    <h6 align="left">Back-End Technologies:</h3>
+    <h6 align="left">Back-End Technologies :</h3>
     <a href="https://nodejs.org">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
     </a>
@@ -68,7 +68,7 @@
 </p>
 
 <p align="left">
-    <h6 align="left">Database Technologies:</h3>
+    <h6 align="left">Database Technologies :</h3>
     <a href="https://www.mongodb.com/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
     </a>
@@ -78,7 +78,7 @@
 </p>
 
 <p align="left">
-    <h6 align="left">Cloud Technologies:</h3>
+    <h6 align="left">Cloud Technologies :</h3>
     <a href="https://aws.amazon.com">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
     </a>
