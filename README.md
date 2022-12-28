@@ -20,7 +20,8 @@
 [![YouTube Badge](https://img.shields.io/badge/-Instructor%20Hut-c14438?style=for-the-badge&logo=Youtube&logoColor=white&link=https://www.youtube.com/c/instructorhut)](https://www.youtube.com/c/instructorhut)
 
 <h3 align="left">Coding Profile :</h3>
-[![Exercism Badge](https://img.shields.io/badge/-Instructor%20Hut-c14438?style=for-the-badge&logo=Exercism&logoColor=white&link=https://exercism.org/profiles/gouravnagpal)](https://exercism.org/profiles/gouravnagpal)
+
+[![Exercism Badge](https://img.shields.io/badge/-Gourav%20Nagpal-c14438?style=for-the-badge&logo=Exercism&logoColor=white&link=https://exercism.org/profiles/gouravnagpal)](https://exercism.org/profiles/gouravnagpal)
 
 <h3 align="left">Projects</h3>
 <p align="left"><a href="https://rise.piet.co.in">R.I.S.E PORTAL</a></p>
