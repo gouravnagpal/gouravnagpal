@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me :</h3>
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:snagpal676@gmail.com)](mailto:snagpal676@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white=https://www.linkedin.com/in/gouravnagpal)](https://www.linkedin.com/in/gourav-nagpal21)
-[![YouTube Badge](https://img.shields.io/badge/-YouTube-c14438?style=for-the-badge&logo=Youtube&logoColor=white&link=https://www.youtube.com/c/instructorhut)](https://www.youtube.com/c/instructorhut)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-BE2D23?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:snagpal676@gmail.com)](mailto:snagpal676@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white=https://www.linkedin.com/in/gouravnagpal)](https://www.linkedin.com/in/gourav-nagpal21)
+[![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=Youtube&logoColor=white&link=https://www.youtube.com/c/instructorhut)](https://www.youtube.com/c/instructorhut)
 
 <h3 align="left">Coding Profile :</h3>
 
