@@ -16,13 +16,13 @@
 <h3 align="left">Connect with me :</h3>
 
 [![Gmail Badge](https://img.shields.io/badge/-snagpal676@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:snagpal676@gmail.com)](mailto:snagpal676@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Gourav%20Nagpal-blue?style=for-the-badge&logo=Linkedin&logoColor=white=https://www.linkedin.com/in/gourav-nagpal21)](https://www.linkedin.com/in/gourav-nagpal21)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white=https://www.linkedin.com/in/gourav-nagpal21)](https://www.linkedin.com/in/gourav-nagpal21)
 [![YouTube Badge](https://img.shields.io/badge/-Instructor%20Hut-c14438?style=for-the-badge&logo=Youtube&logoColor=white&link=https://www.youtube.com/c/instructorhut)](https://www.youtube.com/c/instructorhut)
 
 <h3 align="left">Coding Profile :</h3>
 
-[![Exercism Badge](https://img.shields.io/badge/-Gourav%20Nagpal-9700FF?style=for-the-badge&logo=Exercism&logoColor=white&link=https://exercism.org/profiles/gouravnagpal)](https://exercism.org/profiles/gouravnagpal)
-[![Leet Code Badge](https://img.shields.io/badge/-Gourav%20Nagpal-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white&link=https://leetcode.com/gouravnagpal/)](https://leetcode.com/gouravnagpal/)
+[![Exercism Badge](https://img.shields.io/badge/-Exercism-9700FF?style=for-the-badge&logo=Exercism&logoColor=white&link=https://exercism.org/profiles/gouravnagpal)](https://exercism.org/profiles/gouravnagpal)
+[![Leet Code Badge](https://img.shields.io/badge/-Leet%20Code-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white&link=https://leetcode.com/gouravnagpal/)](https://leetcode.com/gouravnagpal/)
 
 <h3 align="left">Projects</h3>
 <p align="left"><a href="https://rise.piet.co.in">R.I.S.E PORTAL</a></p>
