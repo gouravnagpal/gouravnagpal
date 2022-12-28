@@ -26,6 +26,7 @@
 [![Hacker Rank Badge](https://img.shields.io/badge/-Hacker%20Rank-2EC866?style=for-the-badge&logo=Hackerrank&logoColor=white&link=https://www.hackerrank.com/gouravnagpal)](https://www.hackerrank.com/gouravnagpal)
 
 <h3 align="left">Projects</h3>
+
 https://img.shields.io/badge/-R.I.S.E%20Portal-1D8533?style=for-the-badge
 <p align="left"><a href="https://rise.piet.co.in">R.I.S.E PORTAL</a></p>
 <p align="left"><a href="https://feedback.piet.co.in">Feedback PORTAL</a></p>
