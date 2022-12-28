@@ -28,10 +28,9 @@
 <h3 align="left">Projects</h3>
 
 [![R.I.S.E Portal Badge](https://img.shields.io/badge/-R.I.S.E%20Portal-1D8533?style=for-the-badge&link=https://rise.piet.co.in)](https://rise.piet.co.in)
-<p align="left"><a href="https://rise.piet.co.in">R.I.S.E PORTAL</a></p>
-<p align="left"><a href="https://feedback.piet.co.in">Feedback PORTAL</a></p>
-<p align="left"><a href="https://achievers.piet.co.in">Achievers PORTAL</a></p>
-<p align="left"><a href="https://oqcl.piet.co.in">OQCL PORTAL (Open Quiz Championship League)<a></p>
+[![Feedback Portal Badge](https://img.shields.io/badge/-Feedback-1D8533?style=for-the-badge&link=https://feedback.piet.co.in)](https://feedback.piet.co.in)
+[![Achievers Portal Badge](https://img.shields.io/badge/-Achievers-1D8533?style=for-the-badge&link=https://achievers.piet.co.in)](https://achievers.piet.co.in)
+[![OQCL Portal Badge](https://img.shields.io/badge/-O.Q.C.L%20PORTAL%20(Open%20Quiz%20Championship%20League)-1D8533?style=for-the-badge&link=https://oqcl.piet.co.in)](https://oqcl.piet.co.in)
 
 <h3 align="left">Languages and Tools :</h3>
 <p align="left">
