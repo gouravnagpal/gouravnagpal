@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=gourav-nagpal21&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="gourav-nagpal21" />
+    <img src="https://komarev.com/ghpvc/?username=gourav-nagpal21&label=Profile%20views&color=000000&style=for-the-badge" alt="gourav-nagpal21" />
 </p>
 
 - I’m currently working on **JavaScript & PHP**
