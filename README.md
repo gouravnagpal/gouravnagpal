@@ -22,6 +22,7 @@
 <h3 align="left">Coding Profile :</h3>
 
 [![Exercism Badge](https://img.shields.io/badge/-Gourav%20Nagpal-9700FF?style=for-the-badge&logo=Exercism&logoColor=white&link=https://exercism.org/profiles/gouravnagpal)](https://exercism.org/profiles/gouravnagpal)
+[![Leet Code Badge](https://img.shields.io/badge/-Gourav%20Nagpal-9700FF?style=for-the-badge&logo=LeetCode&logoColor=white&link=https://leetcode.com/gouravnagpal/)](https://leetcode.com/gouravnagpal/)
 
 <h3 align="left">Projects</h3>
 <p align="left"><a href="https://rise.piet.co.in">R.I.S.E PORTAL</a></p>
