@@ -23,7 +23,7 @@
 
 [![Exercism Badge](https://img.shields.io/badge/-Exercism-9700FF?style=for-the-badge&logo=Exercism&logoColor=white&link=https://exercism.org/profiles/gouravnagpal)](https://exercism.org/profiles/gouravnagpal)
 [![Leet Code Badge](https://img.shields.io/badge/-Leet%20Code-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white&link=https://leetcode.com/gouravnagpal/)](https://leetcode.com/gouravnagpal/)
-[![Hacker Rank Badge](https://img.shields.io/badge/-Hacker Rank-2EC866?style=for-the-badge&logo=Hackerrank&logoColor=white&link=https://www.hackerrank.com/gouravnagpal)](https://www.hackerrank.com/gouravnagpal)
+[![Hacker Rank Badge](https://img.shields.io/badge/-Hacker%20Rank-2EC866?style=for-the-badge&logo=Hackerrank&logoColor=white&link=https://www.hackerrank.com/gouravnagpal)](https://www.hackerrank.com/gouravnagpal)
 
 <h3 align="left">Projects</h3>
 <p align="left"><a href="https://rise.piet.co.in">R.I.S.E PORTAL</a></p>
