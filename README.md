@@ -13,8 +13,6 @@
 
 - Ask me about **Secure Coding Techniques**
 
-<a href="https://gourav-nagpal21.github.io/javascript-roadmap">JavaScript Roadmap</a>
-
 <h3 align="left">Connect with me :</h3>
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-BE2D23?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:snagpal676@gmail.com)](mailto:snagpal676@gmail.com)
@@ -33,6 +31,9 @@
 [![Feedback Portal Badge](https://img.shields.io/badge/-Feedback%20Portal-0093D4?style=for-the-badge&link=https://feedback.piet.co.in)](https://feedback.piet.co.in)
 [![Achievers Portal Badge](https://img.shields.io/badge/-Achievers%20Portal-0093D4?style=for-the-badge&link=https://achievers.piet.co.in)](https://achievers.piet.co.in)
 [![OQCL Portal Badge](https://img.shields.io/badge/-O.Q.C.L%20PORTAL-0093D4?style=for-the-badge&link=https://oqcl.piet.co.in)](https://oqcl.piet.co.in)
+
+<h3 align="left">Roadmaps</h3>
+[![JavaScript](https://img.shields.io/badge/-JavaScript-0093D4?style=for-the-badge&link=https://gourav-nagpal21.github.io/javascript-roadmap)](https://gourav-nagpal21.github.io/javascript-roadmap)
 
 <h3 align="left">Languages and Tools :</h3>
 <p align="left">
