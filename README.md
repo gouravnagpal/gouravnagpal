@@ -11,7 +11,9 @@
 
 - I’m currently working on **JavaScript & PHP**
 
-- Ask me about **Secure Coding Techniques** 
+- Ask me about **Secure Coding Techniques**
+
+<a href="https://gourav-nagpal21.github.io/javascript-roadmap">JavaScript Roadmap</a>
 
 <h3 align="left">Connect with me :</h3>
 
