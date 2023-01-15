@@ -33,7 +33,8 @@
 [![OQCL Portal Badge](https://img.shields.io/badge/-O.Q.C.L%20PORTAL-0093D4?style=for-the-badge&link=https://oqcl.piet.co.in)](https://oqcl.piet.co.in)
 
 <h3 align="left">Roadmaps</h3>
-[![JavaScript](https://img.shields.io/badge/-JavaScript-0093D4?style=for-the-badge&link=https://gourav-nagpal21.github.io/javascript-roadmap)](https://gourav-nagpal21.github.io/javascript-roadmap)
+
+[![JavaScript](https://img.shields.io/badge/-JavaScript-0093D4?style=for-the-badge&logo=javascript&logoColor=white&link=https://gourav-nagpal21.github.io/javascript-roadmap)](https://gourav-nagpal21.github.io/javascript-roadmap)
 
 <h3 align="left">Languages and Tools :</h3>
 <p align="left">
