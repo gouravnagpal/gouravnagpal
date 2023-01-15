@@ -34,7 +34,7 @@
 
 <h3 align="left">Roadmaps</h3>
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-0093D4?style=for-the-badge&logo=javascript&logoColor=white&link=https://gourav-nagpal21.github.io/javascript-roadmap)](https://gourav-nagpal21.github.io/javascript-roadmap)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=white&link=https://gourav-nagpal21.github.io/javascript-roadmap)](https://gourav-nagpal21.github.io/javascript-roadmap)
 
 <h3 align="left">Languages and Tools :</h3>
 <p align="left">
