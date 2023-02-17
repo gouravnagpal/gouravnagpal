@@ -31,6 +31,7 @@
 [![Feedback Portal Badge](https://img.shields.io/badge/-Feedback%20Portal-0093D4?style=for-the-badge&link=https://feedback.piet.co.in)](https://feedback.piet.co.in)
 [![Achievers Portal Badge](https://img.shields.io/badge/-Achievers%20Portal-0093D4?style=for-the-badge&link=https://achievers.piet.co.in)](https://achievers.piet.co.in)
 [![OQCL Portal Badge](https://img.shields.io/badge/-O.Q.C.L%20PORTAL-0093D4?style=for-the-badge&link=https://oqcl.piet.co.in)](https://oqcl.piet.co.in)
+[![KBE Badge](https://img.shields.io/badge/-K.B.E-0093D4?style=for-the-badge&link=https://kbe.piet.co.in)](https://kbe.piet.co.in)
 
 <h3 align="left">Roadmaps</h3>
 
