@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Gourav Nagpal</h1>
+<h1 align="center">Hi, I'm Gourav Nagpal </h1>
 <h3 align="center">Full Stack Developer & Cyber Security Analyst</h3>
 
 <p align="center">
