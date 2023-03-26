@@ -35,8 +35,8 @@
 
 <h3 align="left">Roadmaps</h3>
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript%20RoadMap-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black&link=https://gourav-nagpal21.github.io/javascript-roadmap)](https://gourav-nagpal21.github.io/javascript-roadmap)
-[![FullStack](https://img.shields.io/badge/-Full%20Stack%20Development%20RoadMap-2DA44E?style=for-the-badge&logo=javascript&logoColor=white&link=https://gourav-nagpal21.github.io/full-stack-roadmap/)](https://gourav-nagpal21.github.io/full-stack-roadmap/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript%20RoadMap-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black&link=https://gourav-nagpal21.github.io/roadmaps/javascript/)](https://gourav-nagpal21.github.io/roadmaps/javascript/)
+[![FullStack](https://img.shields.io/badge/-Full%20Stack%20Development%20RoadMap-2DA44E?style=for-the-badge&logo=javascript&logoColor=white&link=https://gourav-nagpal21.github.io/roadmaps/full-stack-development/)](https://gourav-nagpal21.github.io/roadmaps/full-stack-development/)
 
 <h3 align="left">Languages and Tools :</h3>
 <p align="left">
