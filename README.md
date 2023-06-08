@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Gourav Nagpal </h1>
-<h3 align="center">Full Stack Developer & Cyber Security Analyst</h3>
+<h3 align="center">Full Stack Developer & Ethical Hacker</h3>
 
 <p align="center">
     <img src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="Coding" width="450" />
@@ -22,14 +22,6 @@
 <h3 align="left">Coding Profile :</h3>
 
 [![Exercism Badge](https://img.shields.io/badge/-Exercism-9700FF?style=for-the-badge&logo=Exercism&logoColor=white&link=https://exercism.org/profiles/gouravnagpal)](https://exercism.org/profiles/gouravnagpal)
-
-<h3 align="left">Projects</h3>
-
-[![R.I.S.E Portal Badge](https://img.shields.io/badge/-R.I.S.E-0093D4?style=for-the-badge&link=https://rise.piet.co.in)](https://rise.piet.co.in)
-[![Feedback Portal Badge](https://img.shields.io/badge/-Feedback-0093D4?style=for-the-badge&link=https://feedback.piet.co.in)](https://feedback.piet.co.in)
-[![Achievers Portal Badge](https://img.shields.io/badge/-Achievers-0093D4?style=for-the-badge&link=https://achievers.piet.co.in)](https://achievers.piet.co.in)
-[![OQCL Portal Badge](https://img.shields.io/badge/-O.Q.C.L-0093D4?style=for-the-badge&link=https://oqcl.piet.co.in)](https://oqcl.piet.co.in)
-[![KBE Badge](https://img.shields.io/badge/-K.B.E-0093D4?style=for-the-badge&link=https://kbe.piet.co.in)](https://kbe.piet.co.in)
 
 <h3 align="left">Roadmaps</h3>
 
