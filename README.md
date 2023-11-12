@@ -17,7 +17,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-BE2D23?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:snagpal676@gmail.com)](mailto:snagpal676@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white=https://www.linkedin.com/in/gouravnagpal)](https://www.linkedin.com/in/gouravnagpal)
-[![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=Youtube&logoColor=white&link=https://www.youtube.com/c/instructorhut)](https://www.youtube.com/c/instructorhut)
+[![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=Youtube&logoColor=white&link=https://www.youtube.com/c/exploitcat)](https://www.youtube.com/c/exploitcat)
 
 <h3 align="left">Coding Profile :</h3>
 
