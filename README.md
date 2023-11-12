@@ -9,7 +9,7 @@
     <img src="https://komarev.com/ghpvc/?username=gouravnagpal&label=Profile%20views&color=000000&style=for-the-badge" alt="gouravnagpal" />
 </p>
 
-- I’m currently working on **JavaScript & PHP**
+- I’m currently working on **JavaScript (React.js & Next.js)**
 
 - Ask me about **Secure Coding Techniques**
 
