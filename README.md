@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=gouravnagpal&label=Profile%20views&color=000000&style=for-the-badge" alt="gouravnagpal" />
+    <img style="mix-blend-mode: multiply;" src="https://komarev.com/ghpvc/?username=gouravnagpal&label=Profile%20views&color=000000&style=for-the-badge" alt="gouravnagpal" />
 </p>
 
 - I’m currently working on **JavaScript (React.js & Next.js)**
